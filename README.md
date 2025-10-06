@@ -5,7 +5,8 @@ Studied Electrical Engineering and Physics — because why choose between one wa
 🔬 I’ve worked on **graphene sensors**, **fault detection**, and **data analysis** in applied physics labs.  
 💻 These days, I help build **software for research labs** at Balthazar and design experiments that mix curiosity with code.
 
-📸 Also into **photography** and 🎵 **music**.
+📸 Also into **photography** and 🎵 **music**
+
 ---
 
 ### 🌐 Elsewhere
